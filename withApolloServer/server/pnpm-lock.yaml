@@ -6,8 +6,8 @@ settings:
 
 devDependencies:
   '@apollo/server':
-    specifier: ^4.7.5
-    version: 4.7.5(graphql@16.7.1)
+    specifier: ^4.9.3
+    version: 4.9.3(graphql@16.7.1)
   '@faker-js/faker':
     specifier: ^8.0.2
     version: 8.0.2
@@ -92,8 +92,8 @@ packages:
       graphql: 16.7.1
     dev: true
 
-  /@apollo/server@4.7.5(graphql@16.7.1):
-    resolution: {integrity: sha512-XobKpTnW/jbmr0DuJ+8zBzoeL6uEat4CkBN7kOCjhXEUuCNxiLrQGrWFVDqgV7bSdOJr6o2POmZYBPNQXLdyvA==}
+  /@apollo/server@4.9.3(graphql@16.7.1):
+    resolution: {integrity: sha512-U56Sx/UmzR3Es344hQ/Ptf2EJrH+kV4ZPoLmgGjWoiwf2wYQ/pRSvkSXgjOvoyE34wSa8Gh7f92ljfLfY+6q1w==}
     engines: {node: '>=14.16.0'}
     peerDependencies:
       graphql: ^16.6.0
